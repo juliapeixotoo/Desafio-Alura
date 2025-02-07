@@ -18,10 +18,15 @@ Projeto desenvolvindo com a alura e one, com foco em javascrpit.
 ✅ Interface intuitiva: Desenvolvida com HTML, CSS e JavaScript puro.
 
 📜 Como funciona?
+
 Digite um nome no campo de entrada.
+
 Clique no botão Adicionar para incluir o nome na lista.
+
 Após adicionar os participantes, clique no botão Sortear Amigo.
+
 O nome sorteado será exibido na tela.
+
 O botão de sorteio será desativado para impedir novos sorteios.
 
 Link do projeto está hospedado no Vercel: 
