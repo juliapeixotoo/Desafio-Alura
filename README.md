@@ -6,10 +6,15 @@ Projeto desenvolvindo com a alura e one, com foco em javascrpit.
 
 🚀 Funcionalidades
 ✅Adicionar amigos: Insira um nome e clique em "Adicionar" para adicioná-lo à lista.
+
 ✅ Evitar nomes duplicados: O sistema impede que o mesmo nome seja inserido mais de uma vez.
+
 ✅ Remover amigos: Um botão "❌" ao lado de cada nome permite removê-lo da lista.
+
 ✅ Sortear um amigo secreto: Um nome aleatório da lista será exibido ao clicar no botão "Sortear amigo".
+
 ✅ Prevenção de múltiplos sorteios: Após o primeiro sorteio, o botão fica desativado para evitar sorteios repetidos.
+
 ✅ Interface intuitiva: Desenvolvida com HTML, CSS e JavaScript puro.
 
 📜 Como funciona?
